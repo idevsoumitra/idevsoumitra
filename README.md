@@ -1,7 +1,7 @@
-# Hi 👋 I'm Soumitra Chakrabarteee  
-A passionate Software Engineer from Bangladesh  
 
 ![Banner]([https://link-to-your-banner-image](https://ibb.co.com/5hdZVwYq))
+# Hi 👋 I'm Soumitra Chakrabarteee  
+A passionate Software Engineer from Bangladesh  
 
 ## 🚀 About Me
 - 🔭 I’m currently working at IT Lab Solutions Ltd.
